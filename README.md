@@ -1,5 +1,5 @@
 # terrarium
-Arduno sketch for humidity and temperature display on arduino nano with 240x240 TFT display and SHT#% sensor module.
+Arduno sketch for humidity and temperature display on arduino nano with 240x240 TFT display and SHT3# sensor module.
 Based on Adafruit Adafruit_SHT31, Adafruit_GFX and Arduino_ST7789 libraries.
 
 Connections:
